@@ -140,3 +140,64 @@ a {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+.FooterGroup {
+  background: #F1F3F5;
+  padding: 50px 0;
+  display: grid;
+  grid-gap: 20px;
+}
+
+.FooterGroup h3 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #486791;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.FooterGroup button {
+  padding: 8px 20px;
+  font-size: 20px;
+  background: #33C7FF;
+  border: none;
+  font-weight: 700;
+  border-radius: 100px;
+  outline: none;
+  cursor: pointer;
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+  color: white;
+  border: none;
+  padding: 16px 60px;
+  font-weight: 600;
+  font-size: 24px;
+  justify-self: center;
+}
+
+.FooterGroup button:hover {
+  background: black;
+  box-shadow: 0 10px 20px rgba(0,0,0, 0.25);
+  transform: translateY(-3px);
+}
+
+.FooterText {
+  background: #F1F3F5;
+  padding: 1px 0;
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 2px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2px;
+  justify-items: center;
+  color: #3436E7;
+}
+
+
+@media (max-width: 720px) {
+  .FooterText {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

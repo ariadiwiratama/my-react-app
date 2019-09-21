@@ -36,7 +36,7 @@ class Header extends React.Component {
           <Link to="/"><img src={require('../images/logo-cube.svg')} width="50" /></Link>
           <Link to="/tutorial">Tutorial</Link>
           <Link to="/downloads">Downloads</Link>
-          <Link to="/tour">Tour</Link>
+          <Link to="/tour">Freebies</Link>
           <Link to="/buy"><button>Join</button></Link>
         </div>
      </div>

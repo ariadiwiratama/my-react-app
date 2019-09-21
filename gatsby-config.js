@@ -2,10 +2,18 @@ module.exports = {
   siteMetadata: {
     title: `Design Studio`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    keywords: `progamming course, free front end development course`,
     author: `@gatsbyjs`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    {
+      resolve:'gatsby-source-contentful',
+      option: {
+        spaceId: '2v2q7vr052zd',
+        accessToken: 'SQGBKQ9X3MeLRD5Hj2iMz105ZeKCKAiPp_cjm_QiGys'
+      }
+    }
     {
       resolve: `gatsby-source-filesystem`,
       options: {

@@ -1,0 +1,52 @@
+{
+    "cells": [
+        {
+            "title": "Intro to HTML", 
+            "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png"
+        },
+        {
+            "title": "Learn CSS", 
+            "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"
+        },
+        {
+            "title": "Learn SASS", 
+            "image": "https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png"
+        },
+        {
+            "title": "Intro Basic Javascript", 
+            "image": "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
+        },
+        {
+            "title": "Intro to React", 
+            "image": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+        },
+        {
+            "title": "Learn React Native", 
+            "image": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+        },
+        {
+            "title": "Java for Beginner", 
+            "image": "https://upload.wikimedia.org/wikipedia/id/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png"
+        },
+        {
+            "title": "Kotlin for Beginner", 
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/512px-Kotlin-logo.svg.png"
+        },
+        {
+            "title": "Build IOS App with Swift", 
+            "image": "https://upload.wikimedia.org/wikipedia/commons/archive/9/9d/20150702163053%21Swift_logo.svg"
+        },
+        {
+            "title": "Master After Effect", 
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Adobe_After_Effects_CS6_Icon.png"
+        },
+        {
+            "title": "Python Basic", 
+            "image": "http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-PNG-Image.png"
+        },
+        {
+            "title": "Intro with C++", 
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"
+        }
+    ]
+}
